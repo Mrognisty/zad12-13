@@ -7,9 +7,8 @@
 		</head>
 		<body>
 				<ul>
-					<li> <a href="https://zse.edu.gdansk.pl/" target="obszar_glowny"> Strona ZSE </a> </li>
-				
-					<li> <a href="https://www.kuratorium.gda.pl/" target="obszar_glowny"> Kuratorium </a> </li>
+					<li> <a href="https://zse.edu.gdansk.pl/" target="glowny"> Strona ZSE </a> </li>
+					<li> <a href="https://www.kuratorium.gda.pl/" target="glowny"> Kuratorium </a> </li>
 					<li></li>
 					<li></li>
 				</ul>
